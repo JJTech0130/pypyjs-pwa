@@ -3,7 +3,13 @@
   "version": "0.4.0",
   "author": "Ryan Kelly <ryan@rfk.id.au>",
   "description": "The PyPy Python VM, in JavaScript",
-  "keywords": ["python", "pypy", "asmjs", "emscripten", "wtf"],
+  "keywords": [
+    "python",
+    "pypy",
+    "asmjs",
+    "emscripten",
+    "wtf"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/pypyjs/pypyjs"
@@ -17,8 +23,8 @@
     "README.rst"
   ],
   "dependencies": {
+    "jquery": "^3.4.1"
   },
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "license": "MIT"
 }
